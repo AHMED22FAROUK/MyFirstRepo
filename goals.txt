@@ -1,0 +1,7 @@
+My Personal and Academic Goals for Next Year
+============================================
+- Finish DevOps fundamentals and Linux mastery.
+- Contribute to open source on GitHub.
+- Learn Docker and CI/CD pipelines.
+- Get an internship or entry-level job in backend or DevOps.
+- Improve my English and communication skills.
