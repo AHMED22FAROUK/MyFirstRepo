@@ -1,0 +1,5 @@
+# Brief Introduction About Myself
+
+My name is Ahmed Farouk. I'm from Egypt and I'm passionate about technology, coding, and system engineering. I'm currently learning Linux commands and GitHub for DevOps and backend development.
+
+I’m looking forward to using GitHub to collaborate on open source projects and improve my skills in system automation and software development.
